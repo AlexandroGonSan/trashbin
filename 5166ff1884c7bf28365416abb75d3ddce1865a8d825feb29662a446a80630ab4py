@@ -1,7 +1,13 @@
 #!/usr/bin/env python3
 # -*- Mode: Python; tab-width: 4 -*-
-#       Id: guid.py,v 1.00 2020/07/25 03:20:00
+#       Id: guid.py,v 0.1.1 2020/07/25 03:20:00
 #       Author: Alexandro Goncalves Dos Santos <alexandrogonsan@outlook.com>
+# ======================================================================
+# Changelog
+# 0.0.0 creation of file with license
+# 0.1.0 uuid guid as hex digit
+# 0.1.1 real license indicate in 0.0.0
+# ======================================================================
 
 # ======================================================================
 # * Date of copyright need keep same with over the years
