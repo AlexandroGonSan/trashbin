@@ -37,10 +37,12 @@
 # NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN
 # CONNECTION WITH THE USE OR PERFORMANCE OR OTHER THIS CREATION.
 # ======================================================================
-r"""Title Geral Descritivo do arquivo
+r"""Humanly Unique Identifier
 
 
-:copyright: Copyright 2020 by Alexandro Gonçalves Dos Santos.
+For context decoupling and uniqueness.
+
+:copyright: Copyright 2020 by Alexandro Goncalves Dos Santos.
 """
 import random
 
